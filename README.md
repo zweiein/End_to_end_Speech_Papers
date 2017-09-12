@@ -5,7 +5,7 @@
 | | [Connectionist temporal classification: labelling unsegmented sequence data with recurrent neural networks](ftp://ftp.idsia.ch/pub/juergen/icml2006.pdf)| 2006 | Alex Grave
 |★★★★★★ | [Supervised sequence labelling with recurrent neural networks](https://www.cs.toronto.edu/~graves/phd.pdf)| 2012 | Alex Graves's PhD thesis
  | | [Speech Recognition with Deep Recurrent Neural Networks](http://arxiv.org/abs/1303.5778v1) | March 2013 | Bi-LSTM + skip connections w/ CTC |
-| ★★★★|  [”Towards end-to-end speech recognition with recurrent neural networks](proceedings.mlr.press/v32/graves14.pdf)| 2014 |
+| ★★★★|  [Towards end-to-end speech recognition with recurrent neural networks](proceedings.mlr.press/v32/graves14.pdf)| 2014 |
  | | [End-to-end Continuous Speech Recognition using Attention-based Recurrent NN: First Results](https://arxiv.org/pdf/1412.1602.pdf) | 2014| 
 |★ |  [Deep Speech: Scaling up end-to-end speech recognition](http://arxiv.org/abs/1412.5567) | December 2014 | CNN + Bi-RNN + CTC (speech to letters), 25.9% WER if trained _only_ on SWB |
  | ★★★|  [Deep Speech 2: End-to-End Speech Recognition in English and Mandarin](http://arxiv.org/abs/1512.02595v1) | December 2015 | Baidu |
