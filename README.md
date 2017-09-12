@@ -19,7 +19,7 @@
  | | [Residual Convolutional CTC Networks for Automatic Speech Recognition](https://arxiv.org/pdf/1702.07793.pdf) | 2017 |
  
  ## Connectionist Temporal Classification (CTC)
- | Paper | Notes |
+ | Article | Notes |
  | :------------- | :------------- |
  [谁给讲讲语音识别中的CTC方法的基本原理？](https://www.zhihu.com/question/47642307) | 
  [论文——Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks](www.jianshu.com/p/8406618e940f)|
